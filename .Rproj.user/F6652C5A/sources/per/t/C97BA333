@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540208548937.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2545038703",
+    "id" : "C97BA333",
+    "lastKnownWriteTime" : 1529889838,
+    "last_content_update" : 1529889838,
+    "path" : "~/GitHub/DataVisualization/DataVis_R_Lab06_Shiny.R",
+    "project_path" : "DataVis_R_Lab06_Shiny.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

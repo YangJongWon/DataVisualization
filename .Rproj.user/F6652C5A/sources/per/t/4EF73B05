@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540216599204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1586282399",
+    "id" : "4EF73B05",
+    "lastKnownWriteTime" : 1540216847,
+    "last_content_update" : 1540216847061,
+    "path" : "~/GitHub/DataVisualization/DrawScatterPlot/server.r",
+    "project_path" : "DrawScatterPlot/server.r",
+    "properties" : {
+        "cursorPosition" : "34,5",
+        "scrollLine" : "28",
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540216267007.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1961922861",
+    "id" : "C1DC2B0A",
+    "lastKnownWriteTime" : 1529861430,
+    "last_content_update" : 1529861430,
+    "path" : "~/GitHub/DataVisualization/HelloShiny/ui.r",
+    "project_path" : "HelloShiny/ui.r",
+    "properties" : {
+        "cursorPosition" : "8,2",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 15,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

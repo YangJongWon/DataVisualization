@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540216257074.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1260331361",
+    "id" : "5822ECD3",
+    "lastKnownWriteTime" : 1529861367,
+    "last_content_update" : 1529861367,
+    "path" : "~/GitHub/DataVisualization/HelloShiny/server.r",
+    "project_path" : "HelloShiny/server.r",
+    "properties" : {
+    },
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

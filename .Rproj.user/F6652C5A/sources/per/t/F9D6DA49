@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540216626553.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2989883985",
+    "id" : "F9D6DA49",
+    "lastKnownWriteTime" : 1540216730,
+    "last_content_update" : 1540216730886,
+    "path" : "~/GitHub/DataVisualization/DataVis_R_Lab06_Shiny_DrawScatter.R",
+    "project_path" : "DataVis_R_Lab06_Shiny_DrawScatter.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 18,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

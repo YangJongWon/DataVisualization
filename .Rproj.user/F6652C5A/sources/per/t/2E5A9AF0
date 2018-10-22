@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540208712136.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4222960290",
+    "id" : "2E5A9AF0",
+    "lastKnownWriteTime" : 1540214975,
+    "last_content_update" : 1540214975775,
+    "path" : "~/GitHub/DataVisualization/DataVis_R_Lab06_Shiny_BasicLab01.R",
+    "project_path" : "DataVis_R_Lab06_Shiny_BasicLab01.R",
+    "properties" : {
+        "cursorPosition" : "58,0",
+        "scrollLine" : "57",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

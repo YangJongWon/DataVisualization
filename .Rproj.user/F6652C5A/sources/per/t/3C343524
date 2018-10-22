@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540216252809.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2513071042",
+    "id" : "3C343524",
+    "lastKnownWriteTime" : 1529861317,
+    "last_content_update" : 1529861317,
+    "path" : "~/GitHub/DataVisualization/HelloShiny/global.r",
+    "project_path" : "HelloShiny/global.r",
+    "properties" : {
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
